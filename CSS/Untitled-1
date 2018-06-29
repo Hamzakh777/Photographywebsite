@@ -1,0 +1,9 @@
+/*golbale*/
+body {
+    width=100%;
+    background:#868686;
+}
+
+.container {
+    width=60%;
+}
